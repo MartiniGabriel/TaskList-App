@@ -20,7 +20,7 @@ The content of this repository is a Docker Environment.
 
 Follow the steps to Clone and Run the project:
 
-#### 1. Clone and Install
+#### 1. Clone
 
 ```bash
 # Clone the repo
@@ -38,7 +38,7 @@ cd TaskList-App
 
 #### 3. Run the container environment project
 To run this container environmnet, you'll need to have Docker engine started on your computer.
-See more abour Docker environment at https://www.docker.com
+See more about Docker environment at https://www.docker.com
 ```
 ./vendor/bin/sail up
 ```
