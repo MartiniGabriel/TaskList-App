@@ -1,4 +1,4 @@
-# TaskList-ReactNative 🚀
+# TaskList-App 🚀
 
 TaskList is a personal project developed to pratice and study web development languages. The features are developed following the most popular and simple tasklist apps.
 
